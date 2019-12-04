@@ -4,4 +4,3 @@ set_unique_params.py
 convert_string-binary.py
 index.py
 
-My grade is currently at a 76% (BC). By resubmitting this program I should be at ~79%. I ask that you consider rounding my grade up to a B based on my attendance record. Thank you for the consideration.
